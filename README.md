@@ -1,5 +1,4 @@
-# CS 225 Final Project: OpenFlights Dataset
-**NetIDs:** eguo4-gloriax2-lclee3-tkurdu2
+# Shortest Flight Path Simulator
 
 **PURPOSE**: Analyze OpenFlights routes and airports datasets by implementing BFS, DFS, Dijkstra's algorithm, and the Landmark Path algorithm. Data from given text files are processed into an efficient graph structure, and there are several user options to test the functionality of the graph.
 
