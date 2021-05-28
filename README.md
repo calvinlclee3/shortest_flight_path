@@ -1,6 +1,6 @@
 # Shortest Flight Path Simulator
 
-**PURPOSE**: Analyze OpenFlights routes and airports datasets by implementing BFS, DFS, Dijkstra's algorithm, and the Landmark Path algorithm. Data from given text files are processed into an efficient graph structure, and there are several user options to test the functionality of the graph.
+**PURPOSE**: Analyze OpenFlights routes and airports datasets by implementing BFS, DFS, Dijkstra's algorithm, and the Landmark Path algorithm. Data from given text files are processed into an efficient weighted graph structure. Enable users to search for the shortest route between any two airports in the graph, the distance between any two airports, and the number of outgoing flights from an airport.
 
 **AUTHORS**: Calvin Lee, Edward Guo, Tejus Kurdukar, Gloria Xiao
 
