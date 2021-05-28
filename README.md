@@ -44,8 +44,3 @@ Option 10 prints the ICAO codes of all of the adjacent airports of a given airpo
 Option 11 displays miscellaneous information about the airport. 
 
 Exit the program by inputting 12 on the keyboard.
-
-## PRESENTATION VIDEO
-
-Skip to the second recording on this link, should be 13 minutes long. 
-https://illinois.zoom.us/rec/play/KxGVcdj0WNLyVlA6u-bBp79GrJnNgi5SbtMDOt3WpYtuaEZFyBQ6Q6zVijoOeVHiHGyo9cvlvgMkqkBM.qAkP76vBa12spR_J?_x_zm_rhtaid=59&_x_zm_rtaid=Tv_93xOHQSaYY2LlO7sXdw.1607660368548.596ee4a72574325c61092e835b3cd79f&autoplay=true&continueMode=true&startTime=1607659025000
